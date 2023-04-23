@@ -7,7 +7,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
 import java.util.Scanner;
 
-public class IV_SwitchWindows {
+public class AAE_SwitchWindows {
 
 	public static void main(String[] args) {
 		String coflictid, mainwindowid = null, child2id = null, child3id = null;

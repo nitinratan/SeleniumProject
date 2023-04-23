@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class III_DifferentBrowsersExecution {
+public class AAD_DifferentBrowsersExecution {
 
 	public static void main(String[] args) {
 		

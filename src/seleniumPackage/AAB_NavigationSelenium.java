@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class I_NavigationSelenium {
+public class AAB_NavigationSelenium {
 
 	public static void main(String[] args) throws Throwable {
 		// Selenium Navigation

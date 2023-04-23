@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class V_WaitMechanism {
+public class AAF_WaitMechanism {
 
 	public static void main(String[] args) throws InterruptedException {
 
